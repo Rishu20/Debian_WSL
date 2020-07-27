@@ -11,4 +11,4 @@
 ### 1. Download the [Debian.7z](https://github.com/Rishu20/Debian_WSL/releases/download/v1.0/Debian.7z) file
 ### 2. Extract all files to same directory
 Please extract Debian.7z to a folder. Avoid using **Program Files**
-### 3. Run Debian.7z to Extract rootfs and Register to WSL
+### 3. Run Debian.exe to Extract rootfs and Register to WSL
